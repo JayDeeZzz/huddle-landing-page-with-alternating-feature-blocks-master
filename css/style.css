@@ -181,6 +181,12 @@
  .icons p{
      margin-top: 0;
 }
+.social li a{
+    font-size: 0!important;
+}
+.social i{
+    font-size: 1rem;
+}
  @media (max-width: 720px){
      header{
          padding: 2.5rem 0;
